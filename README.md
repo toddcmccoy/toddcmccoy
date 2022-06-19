@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toddcmccoy
 - 👀 I’m interested in pursuing a career in development and/or QA.
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Python
+- 🌱 I’m currently learning HTML, CSS, Javascript, jQuery, SQL, React
 - 📫 Reach out to me at tcmccoy@gmail.com
 
 <!---
