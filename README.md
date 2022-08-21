@@ -69,6 +69,7 @@ Solo Project | Client Project |
 
 
 </div>
+<br />
 
 ## 😆 &nbsp;And one for Nate before we go
 
