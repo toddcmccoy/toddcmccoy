@@ -16,15 +16,18 @@ I'm currently working on Whiskey Notes. A self-paced whiskey education and tasti
 <img src="https://github.com/toddcmccoy/toddcmccoy/blob/main/whiskey-note-dashboard.png" />
 
 
-- :vulcan_salute: Hi, I’m @toddcmccoy
-- 📫 Reach out to me at tcmccoy@gmail.com
+## 🖖 &nbsp;Connect with me
+<p align="center">
+<a href="mailto:tcmccoy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/toddcmccoy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
+## 🧰 &nbsp;My toolbox
 <div align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 <div align="center">
@@ -40,7 +43,9 @@ I'm currently working on Whiskey Notes. A self-paced whiskey education and tasti
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 <div align="center">
@@ -52,6 +57,8 @@ Solo Project | Client Project |
 [![Whiskey Notes Card](https://github-readme-stats.vercel.app/api/pin/?username=toddcmccoy&repo=whiskey_notes&show_icons=true&theme=dark&hide_border=true)](https://github.com/toddcmccoy/whiskey_notes) | Coming Soon |
 
 </div>
+<p align="center">
+<a href="https://www.buymeacoffee.com/toddcmccoy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
 
 <!---
 toddcmccoy/toddcmccoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
