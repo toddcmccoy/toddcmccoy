@@ -54,6 +54,7 @@ I'm currently working on Whiskey Notes. A self-paced whiskey education and tasti
 
 ## 📊 &nbsp;Stats
 <div align="center">
+<img height="240em" src="http://github-readme-streak-stats.herokuapp.com?user=toddcmccoy&theme=dark&hide_border=true" />
 <img height="240em" src="https://github-readme-stats.vercel.app/api?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" /><img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true" /><br />
 </div>
 
@@ -66,6 +67,14 @@ Solo Project | Client Project |
 :------------: | :-------------: | 
 [![Whiskey Notes Card](https://github-readme-stats.vercel.app/api/pin/?username=toddcmccoy&repo=whiskey_notes&show_icons=true&theme=dark&hide_border=true)](https://github.com/toddcmccoy/whiskey_notes) | Coming Soon |
 
+
+</div>
+
+## 😆 &nbsp;And one for Nate before we go
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?hide_border&theme=gradientBlue" alt="Jokes Card" />
 
 </div>
 <br />
