@@ -27,7 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true" />
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true" />
 
 [![Whiskey Notes Card](https://github-readme-stats.vercel.app/api/pin/?username=toddcmccoy&repo=whiskey_notes&show_icons=true&theme=dark&count_private=true)](https://github.com/toddcmccoy/whiskey_notes)
 
