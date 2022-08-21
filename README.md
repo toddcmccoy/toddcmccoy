@@ -51,16 +51,24 @@ I'm currently working on Whiskey Notes. A self-paced whiskey education and tasti
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 </div>
 <br />
+
 ## 📊 &nbsp;Stats
 <div align="center">
 <img height="240em" src="https://github-readme-stats.vercel.app/api?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" /><img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true" /><br />
+</div>
 
 ## 🖥 &nbsp;Projects
+
+<div align="center">
+
+
 Solo Project | Client Project | 
 :------------: | :-------------: | 
 [![Whiskey Notes Card](https://github-readme-stats.vercel.app/api/pin/?username=toddcmccoy&repo=whiskey_notes&show_icons=true&theme=dark&hide_border=true)](https://github.com/toddcmccoy/whiskey_notes) | Coming Soon |
 
+
 </div>
+<br />
 <p align="center">
 <a href="https://www.buymeacoffee.com/toddcmccoy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
 
