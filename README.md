@@ -29,7 +29,7 @@ I'm currently working on Whiskey Notes. A self-paced whiskey education and tasti
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-</div>
+</div><br />
 <div align="center">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -45,13 +45,17 @@ I'm currently working on Whiskey Notes. A self-paced whiskey education and tasti
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 </div>
+<br />
+## 📊 &nbsp;Stats
 <div align="center">
-<img height="240em" src="https://github-readme-stats.vercel.app/api?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" /><img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true" />
+<img height="240em" src="https://github-readme-stats.vercel.app/api?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" /><img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true" /><br />
 
-
+## 🖥 &nbsp;Projects
 Solo Project | Client Project | 
 :------------: | :-------------: | 
 [![Whiskey Notes Card](https://github-readme-stats.vercel.app/api/pin/?username=toddcmccoy&repo=whiskey_notes&show_icons=true&theme=dark&hide_border=true)](https://github.com/toddcmccoy/whiskey_notes) | Coming Soon |
