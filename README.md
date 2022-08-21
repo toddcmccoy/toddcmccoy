@@ -45,9 +45,13 @@ I'm currently working on Whiskey Notes. A self-paced whiskey education and tasti
 </div>
 <div align="center">
 <img height="240em" src="https://github-readme-stats.vercel.app/api?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" /><img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddcmccoy&show_icons=true&theme=dark&hide_border=true" />
-</div>
 
-[![Whiskey Notes Card](https://github-readme-stats.vercel.app/api/pin/?username=toddcmccoy&repo=whiskey_notes&show_icons=true&theme=dark&hide_border=true)](https://github.com/toddcmccoy/whiskey_notes)
+
+Solo Project | Client Project | 
+:------------: | :-------------: | 
+[![Whiskey Notes Card](https://github-readme-stats.vercel.app/api/pin/?username=toddcmccoy&repo=whiskey_notes&show_icons=true&theme=dark&hide_border=true)](https://github.com/toddcmccoy/whiskey_notes) | Coming Soon |
+
+</div>
 
 <!---
 toddcmccoy/toddcmccoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
