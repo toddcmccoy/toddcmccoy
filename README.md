@@ -1,3 +1,10 @@
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/toddcmccoy/count.svg" />
+</p>
+
+
 - 👋 Hi, I’m @toddcmccoy
 - 👀 I’m interested in pursuing a career in development and/or QA.
 - 🌱 I’m currently learning HTML, CSS, Javascript, jQuery, SQL, React
