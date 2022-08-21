@@ -13,7 +13,7 @@
 
 I'm currently working on Whiskey Notes. A self-paced whiskey education and tasting notes application. Designed with the budding whiskey enthusiast in mind, this app helps take the pressure off beginning a new hobby by removing industry jargon and tasting notes written by marketing departments.
 
-![Tweetormator](/assets/tweetormator.jpg)
+<img src="https://github.com/toddcmccoy/toddcmccoy/blob/main/whiskey-note-dashboard.png" />
 
 
 - 👋 Hi, I’m @toddcmccoy
