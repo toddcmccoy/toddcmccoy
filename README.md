@@ -16,7 +16,7 @@ I'm currently working on Whiskey Notes. A self-paced whiskey education and tasti
 <img src="https://github.com/toddcmccoy/toddcmccoy/blob/main/whiskey-note-dashboard.png" />
 
 
-- 👋 Hi, I’m @toddcmccoy
+- :vulcan_salute: Hi, I’m @toddcmccoy
 - 📫 Reach out to me at tcmccoy@gmail.com
 
 <div align="center">
