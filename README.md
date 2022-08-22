@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=48&duration=4000&pause=800&color=607EAA&background=000000&center=true&multiline=true&width=1000&height=300&lines=Hi%2C+I'm+Todd.;Full+Stack+Software+Developer;Coffee+Enthusiast;Serial+Kilter;BBQ+Fanatic" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=48&duration=4000&pause=600&color=607EAA&background=000000&center=true&multiline=true&width=1000&height=360&lines=Hello+World!;I'm+Todd.;Full+Stack+Software+Developer;Coffee+Enthusiast;Serial+Kilter;BBQ+Fanatic" alt="Typing SVG" /></a></div>
 
 <p align="center"> 
   Visitor count<br>
